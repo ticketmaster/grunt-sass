@@ -1,5 +1,5 @@
 {
-  "name": "grunt-sass",
+  "name": "@ticketmaster/grunt-sass",
   "version": "1.1.0",
   "description": "Compile Sass to CSS using node-sass",
   "license": "MIT",
